@@ -1,6 +1,6 @@
 # Alzheimer's Classification Pipeline (Alzheimers vs Healthy) with PET Images
 This is the source code for the following paper: 
-S. M. Gürbüz and M. Adel, "An Edge Feature Inclusive Variational Graph Autoencoder for Pet-Driven Alzheimer's Diagnosis," 2025 Fourteenth International Conference on Image Processing, Theory, Tools & Applications (IPTA), Istanbul, Turkiye, 2025, pp. 1-4 [doi: 10.1109/IPTA66025.2025.11222021](https://ieeexplore.ieee.org/document/11222021).
+[S. M. Gürbüz and M. Adel, "An Edge Feature Inclusive Variational Graph Autoencoder for Pet-Driven Alzheimer's Diagnosis," 2025 Fourteenth International Conference on Image Processing, Theory, Tools & Applications (IPTA), Istanbul, Turkiye, 2025, pp. 1-4 doi: 10.1109/IPTA66025.2025.11222021](https://ieeexplore.ieee.org/document/11222021).
 ## 1. Graph Methods Description
 
 This pipeline takes two brain connectivity graph datasets (Alzheimer’s and Healthy groups), which are creted from 18F-FDG PET scans, as input and performs the following steps:
